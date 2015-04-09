@@ -1,0 +1,8 @@
+# git+https://github.com/damianavila/RISE.git - not pip-able
+git+https://github.com/catherinedevlin/ipython-sql.git
+psycopg2
+https://github.com/catherinedevlin/data-dispenser.git
+git+https://github.com/catherinedevlin/ddl-generator.git
+git+https://github.com/18F/rdbms-subsetter
+ipython
+jsonschema

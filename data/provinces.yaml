@@ -1,0 +1,17 @@
+-
+  name: Ontario
+  capital: Toronto
+  cities:
+  -
+    name: Toronto
+    population: 3000000
+  -
+    name: Ottawa
+    population: 1000000
+-
+  name: Manitoba
+  capital: Winnipeg
+  cities:
+  -
+    name: Winnipeg
+    population: 1000000
