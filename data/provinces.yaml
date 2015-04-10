@@ -1,17 +1,179 @@
--
+- bird: Common Loon
+  cities:
+  - {name: Toronto (Mississauga), population: 5583064}
+  - {name: Hamilton (Burlington), population: 721053}
+  - {name: Kitchener - Cambridge - Waterloo, population: 477160}
+  - {name: London, population: 474786}
+  - {name: 'St. Catharines - Niagara (Niagara Falls, Welland)', population: 392184}
+  - {name: 'Oshawa (Whitby, Clarington)', population: 356177}
+  - {name: Windsor (Lakeshore), population: 319246}
+  - {name: Barrie (Innisfil), population: 187013}
+  - {name: Greater Sudbury, population: 160770}
+  - {name: 'Kingston (South Frontenac, Loyalist)', population: 159561}
+  - {name: Guelph, population: 141097}
+  - {name: Brantford (Brant), population: 135501}
+  - {name: Thunder Bay, population: 121596}
+  - {name: Peterborough (Selwyn), population: 118975}
+  - {name: Chatham-Kent, population: 104075}
+  - {name: Belleville (Quinte West), population: 92540}
+  - {name: Sarnia (St. Clair), population: 89555}
+  - {name: Sault Ste. Marie, population: 79800}
+  - {name: Kawartha Lakes, population: 73214}
+  - {name: North Bay, population: 64043}
+  - {name: Norfolk, population: 63175}
+  - {name: Cornwall (South Stormont), population: 58957}
+  - {name: Leamington (Kingsville), population: 49765}
+  - {name: Timmins, population: 43165}
+  - {name: Orillia (Ramara), population: 40731}
+  - {name: 'Brockville (Elizabethtown-Kitley, Augusta)', population: 39024}
+  - {name: Woodstock, population: 37754}
+  - {name: 'Midland (Tay, Penetanguishene)', population: 35419}
+  - {name: Owen Sound (Georgian Bluffs), population: 32092}
+  - {name: Stratford, population: 30886}
+  - {name: Centre Wellington, population: 26693}
+  - {name: Pembroke (Laurentian Valley), population: 24017}
+  - {name: Collingwood, population: 19241}
+  - {name: Cobourg, population: 18519}
+  - {name: Port Hope, population: 16214}
+  - {name: Petawawa, population: 15988}
+  - {name: Kenora, population: 15348}
+  - {name: Tillsonburg, population: 15301}
+  - {name: Temiskaming Shores, population: 13566}
+  - {name: Ingersoll, population: 12146}
+  - {name: Elliot Lake, population: 11348}
   name: Ontario
-  capital: Toronto
+- bird: Cheeky Warbler
   cities:
-  -
-    name: Toronto
-    population: 3000000
-  -
-    name: Ottawa
-    population: 1000000
--
+  - {name: 'Moncton (Dieppe, Riverview)', population: 138644}
+  - {name: Saint John (Quispamsis), population: 127761}
+  - {name: Fredericton, population: 94268}
+  - {name: 'Bathurst (Bathurst Parish, Beresford Parish, Beresford)', population: 33484}
+  - {name: Miramichi (North Esk), population: 28115}
+  - {name: Edmundston, population: 21903}
+  - {name: 'Campbellton, New Brunswick (Addington, Dalhousie, Listuguj)', population: 17842}
+  name: New Brunswick
+- bird: Brawny Sparrow
+  cities:
+  - {name: Calgary, population: 1214839}
+  - {name: Edmonton, population: 1159869}
+  - {name: Lethbridge, population: 105999}
+  - {name: Red Deer, population: 90564}
+  - {name: Medicine Hat, population: 72807}
+  - {name: Wood Buffalo, population: 66896}
+  - {name: Grande Prairie, population: 55032}
+  - {name: Okotoks, population: 24511}
+  - {name: Brooks (Newell County), population: 23430}
+  - {name: Camrose, population: 17286}
+  - {name: Cold Lake, population: 13839}
+  - {name: High River, population: 12920}
+  - {name: Sylvan Lake, population: 12762}
+  - {name: Wetaskiwin, population: 12525}
+  - {name: Strathmore, population: 12305}
+  - {name: Canmore, population: 12288}
+  - {name: Lacombe, population: 11707}
+  name: Alberta
+- bird: Self-Conscious Heron
+  cities:
+  - {name: Halifax, population: 390328}
+  - {name: Cape Breton, population: 101619}
+  - {name: 'Truro (Colchester, Subd. B & C)', population: 45888}
+  - {name: 'New Glasgow (Pictou, Subd. C & B, Stellarton, Westville)', population: 35809}
+  - {name: 'Kentville (Kings, Subd. B & C)', population: 26359}
+  name: Nova Scotia
+- bird: Boreal Ostrich
+  cities:
+  - {name: Montreal (Laval), population: 3824221}
+  - {name: "Quebec (L\xE9vis)", population: 765706}
+  - {name: Sherbrooke (Magog), population: 201890}
+  - {name: Saguenay, population: 157790}
+  - {name: "Trois-Rivi\xE8res", population: 151773}
+  - {name: Saint-Jean-sur-Richelieu, population: 92394}
+  - {name: Drummondville, population: 88480}
+  - {name: Granby, population: 77077}
+  - {name: Saint-Hyacinthe, population: 56794}
+  - {name: Shawinigan, population: 55009}
+  - {name: Rimouski, population: 50912}
+  - {name: "Sorel-Tracy (Contrec\u0153ur)", population: 47772}
+  - {name: "Joliette (Notre-Dame-des-Prairies, Saint-Charles-Borrom\xE9e, Saint-Paul)",
+    population: 46932}
+  - {name: Victoriaville, population: 46354}
+  - {name: Rouyn-Noranda, population: 41798}
+  - {name: Salaberry-de-Valleyfield, population: 40077}
+  - {name: Saint-Georges, population: 34642}
+  - {name: Val-d'Or, population: 33265}
+  - {name: Alma, population: 33018}
+  - {name: Baie-Comeau, population: 28789}
+  - {name: "Sept-\xCEles", population: 28487}
+  - {name: Thetford Mines, population: 27968}
+  - {name: "Rivi\xE8re-du-Loup (Saint-Antonin)", population: 27734}
+  - {name: Matane, population: 18368}
+  - {name: Amos, population: 17090}
+  - {name: Dolbeau-Mistassini, population: 16019}
+  - {name: Lachute, population: 12551}
+  - {name: Cowansville, population: 12489}
+  name: Quebec
+- bird: Great Mallard
+  cities:
+  - {name: Charlottetown (Stratford), population: 64487}
+  - {name: Summerside, population: 16488}
+  name: Prince Edward Island
+- bird: Arctic Gnatkeeper
+  cities:
+  - {name: Whitehorse, population: 26028}
+  name: Yukon
+- bird: Blue-throated Hipster
+  cities:
+  - {name: Vancouver (Surrey), population: 2313328}
+  - {name: Victoria (Saanich), population: 344615}
+  - {name: Kelowna (West Kelowna), population: 179839}
+  - {name: Abbotsford - Mission, population: 170191}
+  - {name: Kamloops, population: 98754}
+  - {name: Nanaimo, population: 98021}
+  - {name: Chilliwack, population: 92308}
+  - {name: Prince George, population: 84232}
+  - {name: Vernon (Coldstream), population: 58584}
+  - {name: 'Courtenay (Comox, Comox Valley A & B)', population: 55213}
+  - {name: Duncan (North Cowichan), population: 43252}
+  - {name: Penticton (Okanagan-Similkameen D), population: 42361}
+  - {name: Campbell River (Strathcona D), population: 36096}
+  - {name: 'Parksville (Qualicum Beach, Nanaimo G)', population: 27822}
+  - {name: Fort St. John (Peace River C), population: 26380}
+  - {name: Port Alberni (Alberni-Clayoquot E), population: 25465}
+  - {name: Cranbrook (East Kootenay C), population: 25037}
+  - {name: Quesnel (Cariboo A & B), population: 22096}
+  - {name: Williams Lake (Cariboo D & E), population: 18490}
+  - {name: Salmon Arm, population: 17683}
+  - {name: Squamish, population: 17479}
+  - {name: Powell River (Powell River C), population: 16689}
+  - {name: Terrace (Kitimat-Stikine E), population: 15569}
+  - {name: Prince Rupert, population: 13052}
+  - {name: Dawson Creek, population: 11583}
+  name: British Columbia
+- bird: Evasive Stork
+  cities:
+  - {name: Ottawa - Gatineau, population: 1236324}
+  - {name: Hawkesbury (Grenville), population: 12128}
+  name: Ontario/Quebec
+- bird: Hesitant Grebe
+  cities:
+  - {name: Winnipeg, population: 730018}
+  - {name: Brandon, population: 53229}
+  - {name: Steinbach, population: 13524}
+  - {name: Portage la Prairie, population: 12996}
+  - {name: Thompson, population: 12839}
   name: Manitoba
-  capital: Winnipeg
+- bird: Careless Lark
   cities:
-  -
-    name: Winnipeg
-    population: 1000000
+  - {name: Yellowknife, population: 19234}
+  name: Northwest Territories
+- bird: Lesser Outcry
+  cities:
+  - {name: Saskatoon, population: 260600}
+  - {name: Regina, population: 210556}
+  - {name: Prince Albert, population: 42673}
+  - {name: Moose Jaw, population: 34421}
+  - {name: North Battleford (Battleford), population: 19216}
+  - {name: Yorkton (Orkney No. 244), population: 18238}
+  - {name: Swift Current (Swift Current No. 137), population: 17535}
+  - {name: Estevan, population: 12973}
+  name: Saskatchewan
